@@ -1,8 +1,8 @@
 # Prompt - github action
 
-- Lint, basic set up
+## Lint, basic set up
 
-```
+```txt
 CI 를설정하고 싶다. github actions 을 이용할탠데, pull request 할 때, ruff, mypy 를 실행시킬 수 있게 했으면 좋겠다.
 CI 작성시 아래와 같은 조건을 만족해야한다.
 
@@ -16,8 +16,8 @@ CI 작성시 아래와 같은 조건을 만족해야한다.
     3. frontend 폴더만 갱신되면, backend CI 는 SKIP (frontend 폴더안의 markdown file 만 갱신될경우에도 SKIP)
 ```
 
-- CI 개선
+## CI 개선
 
-```
- CI 설정에 개선할 점이 있는지 검토해줘
+```txt
+CI 설정에 개선할 점이 있는지 검토해줘
 ```
